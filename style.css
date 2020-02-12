@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(img/6f23300ebc7a006c80f910c2f639f60a.gif);
+}
+
+table {
+    border: 2px solid rgb(7, 4, 4);
+    border-collapse: collapse;
+    margin: auto;
+    width: 50vw;
+    height: 50vh;
+    line-height: 60px;
+}
+
+th {
+    border: solid black,
+}
+
+td {
+    border: solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr {
+    border: solid black;
+    background-color: rgb(252, 246, 249);
+}
+
+caption {
+    color: gainsboro;
+}
